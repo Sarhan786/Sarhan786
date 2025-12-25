@@ -106,15 +106,15 @@ Mindset: Build scalable products, write clean code, and keep improving 🚀
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-seven-flame.vercel.app?user=Sarhan786&theme=vision-friendly-dark&card_width=500"/>
+<img src="https://github-readme-streak-stats-seven-flame.vercel.app/?user=Sarhan786&theme=vision-friendly-dark&card_width=500"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarhan786&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarhan786&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarhan786&layout=compact&theme=highcontrast"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarhan786&layout=compact&theme=highcontrast"/>
 
 </div>
 
