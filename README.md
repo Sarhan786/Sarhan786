@@ -106,7 +106,7 @@ Mindset: Build scalable products, write clean code, and keep improving 🚀
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-seven-flame.vercel.app/?user=Sarhan786&theme=vision-friendly-dark&card_width=500"/>
+<img src="https://github-readme-streak-stats-seven-flame.vercel.app/?user=Sarhan786&theme=vision-friendly-dark&card_width=500&cache_seconds=0" blank/>
 
 <br/><br/>
 
